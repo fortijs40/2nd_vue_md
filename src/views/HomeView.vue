@@ -1,11 +1,11 @@
 
 <template>
-  <main>
+  <main class="home">
     <Home/>
   </main>
 </template>
 <style>
-  main{
+  .home{
     margin-top: 110px;
     margin-left: 60px;
   }

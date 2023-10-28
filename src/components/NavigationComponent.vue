@@ -10,7 +10,6 @@
 </template>
 
 <script>
-import { useStore } from '@/stores/store.js';
 export default {
 };
 </script>
